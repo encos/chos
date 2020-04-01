@@ -97,9 +97,6 @@ http://iptvhit.live/choos/55555/66666/273
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",MGS_TV
 http://iptvhit.live/choos/55555/66666/274
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="",SBC_TV
-http://iptvhit.live/choos/55555/66666/275
-
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",TVKU
 http://iptvhit.live/choos/55555/66666/276
 
@@ -108,9 +105,6 @@ http://iptvhit.live/choos/55555/66666/277
 
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",CTV
 http://iptvhit.live/choos/55555/66666/278
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="",PADANG_TV
-http://iptvhit.live/choos/55555/66666/279
 
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",B_TV
 http://iptvhit.live/choos/55555/66666/280
@@ -127,14 +121,8 @@ http://iptvhit.live/choos/55555/66666/283
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",SAKTI_TV
 http://iptvhit.live/choos/55555/66666/284
 
-#EXTINF:-1 tvg-name="NULL" tvg-logo="",SONY MAX
-http://iptvhit.live/choos/55555/66666/285
-
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",TEGAR_TV
 http://iptvhit.live/choos/55555/66666/286
-
-#EXTINF:-1 tvg-name="NULL" tvg-logo="",MUGOS
-http://iptvhit.live/choos/55555/66666/287
 
 #EXTINF:-1 tvg-name="NULL" tvg-logo="",JAKARTA GLOBE
 http://iptvhit.live/choos/55555/66666/288

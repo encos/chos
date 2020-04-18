@@ -334,7 +334,7 @@ http://iptvhit.live/mulyana/test/234/122
 #EXTINF:-1 tvg-name="" tvg-logo="",DISNEY JR
 http://iptvhit.live/mulyana/test/234/123
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iptvhit.live/logo.png",TEGARTV
+#EXTINF:-1 tvg-name="" tvg-logo="",TEGARTV
 http://iptvhit.live/mulyana/test/234/124
 
 #EXTINF:-1 tvg-name="" tvg-logo="",TVKU
@@ -342,5 +342,3 @@ http://iptvhit.live/mulyana/test/234/125
 
 #EXTINF:-1 tvg-name="" tvg-logo="",SMNI
 http://iptvhit.live/mulyana/test/234/126
-
-

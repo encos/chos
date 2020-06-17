@@ -1,0 +1,244 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Mahar Bawdi
+https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Mahar Tv
+https://maharlive.b-cdn.net/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Mizzima Tv
+http://220.158.149.28:8180/TV00000000000000000170@HHZT
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Mrtv_4
+https://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",RTM Berita
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Cinema World
+http://210.210.155.35/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Gem
+http://210.210.155.66/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",KiX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Nabawi
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Pertiwi Tv
+https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Tv Iklim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Tv9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Channel 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Drama Thai
+https://edge2a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",M Coth
+http://183.182.100.184/live/mcothd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Mono 29
+http://183.182.100.184/live/mono29/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",ONE 31
+https://one31-0ougnj.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",PPTV
+http://183.182.100.184/live/pptvthai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TGN
+https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",AdiTv
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Ahsan tv
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Arek Tv
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CTV
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CNBC INDO
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CNN INDO
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Home & Living
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",I AM CH
+http://iamchannel.org:1935/tes/1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",INSAN Tv
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",MetroTv
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Musik Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Padang Tv
+https://video2.onlivestreaming.net/robot/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Rai Gulf
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Rai Premium
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Rai Yoyo
+https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Rri net
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Tegar Tv
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Transtv
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI JAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI JABAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI JATENG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI JATIM
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",RCTI
+http://iptv.burhansyam.com/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",INDOSIAR
+http://iptv.burhansyam.com/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",SCTV
+https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",GTV
+http://iptv.burhansyam.com/globaltvhd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",MNCTV
+http://iptv.burhansyam.com/mnctv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",I NEWS
+http://iptv.burhansyam.com/inews.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729456687_b1492000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",RTV
+http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Jogja Tv
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",MOLA SPORTS FREE
+http://iptvhit.live/mulyana/channel/channel/30
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CCTV4
+http://210.210.155.35/session/8fa151f4-a9de-11ea-b7eb-a3e8b6a959a0/qwr9ew/s/s19/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",RODJATV
+http://210.210.155.35/session/df690f88-a9de-11ea-b0e9-973282d83eee/qwr9ew/s/s14/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",DAAI TV
+http://210.210.155.35/session/fa38c4b6-a9de-11ea-8d6e-9be483f5ab02/qwr9ew/s/s13/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",NET
+http://210.210.155.35/session/58965334-a9df-11ea-bff1-aa4abc0caf98/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Antv
+http://210.210.155.35/session/6913c6d8-a9df-11ea-8ede-98c689d5e942/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",CGTN
+http://210.210.155.35/session/61ced09e-a9de-11ea-8ab5-be08a034eca8/qwr9ew/s/s20/02.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",SONY TEN1
+https://iptvhit.live/jajang/encos/encos/161
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",SONY TEN2
+https://iptvhit.live/jajang/encos/encos/162
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",SONY TEN3
+https://iptvhit.live/jajang/encos/encos/163
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",TENNIS TV
+https://iptvhit.live/jajang/encos/encos/104
+
+#EXTINF:-1 tvg-logo="" group-title="CAMPUR",Карусель
+https://iptvhit.live/jajang/encos/encos/164
